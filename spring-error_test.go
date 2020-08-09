@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/go-spring/go-spring-error"
-	"github.com/go-spring/go-spring-utils"
+	"github.com/go-spring/spring-error"
+	"github.com/go-spring/spring-utils"
 )
 
 func TestRpcPanic(t *testing.T) {
